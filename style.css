@@ -64,8 +64,8 @@ textarea{
 	font-size: 1.5rem;
 	margin: 2rem;
 	padding: 1rem;
-	width: 300px;
-	height: 125px;
+	width: 350px;
+	height: 200px;
 	border: 2px solid var(--dark-grey);
 	color: var(--dark-grey);
 	margin-top: 5rem;
@@ -76,7 +76,7 @@ textarea{
     margin: 2rem;
     padding: 1rem;
     width: 350px;
-    height: 150px;
+    height: 200px;
     border: 2px solid var(--dark-grey);
 	color:;
 	text-align: center;
@@ -90,7 +90,7 @@ textarea{
     border-top-right-radius: 1rem;
 	width: 100%;
 	margin: 1rem rem;
-	margin-top: 2.5rem;
+	margin-top: 1.5rem;
     margin-bottom: 0rem;
     align-items: center;
 	text-align: center;
