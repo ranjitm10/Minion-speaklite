@@ -87,11 +87,11 @@ textarea{
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
 	width: 100%;
-	margin: 0rem rem;
+	margin: 1rem rem;
 	margin-top: 10rem;
     margin-bottom: 3rem;
     align-items: center;
 	text-align: center;
-	/* padding-inline-start: 0px; */
+	padding-inline-start: 0px;
 	
 }
