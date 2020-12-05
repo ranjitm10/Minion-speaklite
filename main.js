@@ -29,10 +29,9 @@ function errorHandler(error){
 
 // btnTranslate.addEventListener("click", btnHandler)
 
-function btnHandler(){
 btn.addEventListener("click",function btnHandler(){
 	fetch(translateURL(txtIn.value)).then(response => response.json()).then(json=>{
 		divOut.innerText=json.contents.translated;
 	}).catch(errorHandler);
 });
-}
+
