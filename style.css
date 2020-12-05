@@ -39,7 +39,7 @@ body{
 	color: #28334AFF;
 	border: 0.2rem solid var(--primary-color);
 	font-weight: 580;
-	margin-top: 3rem;
+	margin-top: 2rem;
     
 }
 
@@ -68,7 +68,7 @@ textarea{
 	height: 200px;
 	border: 2px solid var(--dark-grey);
 	color: var(--dark-grey);
-	margin-top: 3rem;
+	margin-top: 1rem;
 }
 
 #divOut{
@@ -80,7 +80,7 @@ textarea{
     border: 2px solid var(--dark-grey);
 	color:;
 	text-align: center;
-	margin-top: 3rem;
+	margin-top: 1rem;
 }
 
 .footer{
