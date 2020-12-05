@@ -9,7 +9,7 @@ function translateURL(text){
 }
 
 function errorHandler(error){
-	console.log("error occured "+error);
+	console.log("error occured ",error);
 	alert("Server is down! Please try after some time.");
 }
 
