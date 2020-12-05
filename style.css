@@ -38,7 +38,8 @@ body{
 	background-color: var(--primary-color);
 	color: #28334AFF;
 	border: 0.2rem solid var(--primary-color);
-    font-weight: 580;
+	font-weight: 580;
+	margin-top: 3rem;
     
 }
 
@@ -89,7 +90,7 @@ textarea{
     border-top-right-radius: 1rem;
 	width: 100%;
 	margin: 1rem rem;
-	margin-top: 9rem;
+	margin-top: 3rem;
     margin-bottom: 0rem;
     align-items: center;
 	text-align: center;
