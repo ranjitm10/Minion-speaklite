@@ -83,13 +83,15 @@ textarea{
 
 .footer{
 	background-color: var(--primary-color);
-	color: white;
-	padding: 1.5rem 0rem;
-	border-top-left-radius: 1rem;
-	border-top-right-radius: 1rem;
-	margin: 1rem 0rem 0rem 0rem;
-	width: 100%;
-	align-items: center;
+    color: white;
+    padding: 1rem 0rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    margin: 1rem 0rem 0rem 0rem;
+    width: 100%;
+    align-items: center;
+	text-align: center;
+	padding-inline-start: 0px;
 	
 }
 
