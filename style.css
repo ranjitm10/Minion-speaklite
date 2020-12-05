@@ -83,7 +83,7 @@ textarea{
 
 .footer{
 	background-color: var(--primary-color);
-    padding: 2rem 0.8rem;
+    padding: 2rem 0.5rem;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
 	width: 100%;
