@@ -10,7 +10,7 @@ function translateURL(text){
 
 function errorHandler(error){
 	console.log("error occured ",error);
-	alert("Server is down! Please try after some time.");
+	alert("Something wrong with Server! try again after some time.");
 }
 
 
