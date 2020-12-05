@@ -67,7 +67,7 @@ textarea{
 	height: 125px;
 	border: 2px solid var(--dark-grey);
 	color: var(--dark-grey);
-	margin-top: 3rem;
+	margin-top: 5rem;
 }
 
 #divOut{
@@ -79,6 +79,7 @@ textarea{
     border: 2px solid var(--dark-grey);
 	color:;
 	text-align: center;
+	margin-top: 5rem;
 }
 
 .footer{
@@ -88,7 +89,7 @@ textarea{
     border-top-right-radius: 1rem;
 	width: 100%;
 	margin: 1rem rem;
-	margin-top: 11.5rem;
+	margin-top: 9rem;
     margin-bottom: 0rem;
     align-items: center;
 	text-align: center;
